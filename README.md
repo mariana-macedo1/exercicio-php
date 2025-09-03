@@ -8,5 +8,7 @@ O objetivo é aprender lógica de programação, manipulação de formulários e
 💻 Tecnologias Utilizadas
 
 PHP – Linguagem de programação backend.
+
 HTML – Estrutura das páginas web.
+
 XAMPP – Servidor local Apache para rodar os arquivos PHP.
